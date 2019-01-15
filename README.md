@@ -1,2 +1,2 @@
-# GitCloneExample
-This is a sample file to practice cloning on GIT
+# Lectures  
+First day lecture on Git
